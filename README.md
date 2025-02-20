@@ -18,33 +18,9 @@ This project implements **automated text summarization** for PDF documents using
 text-summarization/
 │── pdf_summarization/   # This folder contains the PDF Summarization project
 │   ├── summarize_pdf.py  # Main script for summarizing PDFs
-│   ├── mlops_summary.txt # Sample summary output
-│   ├── requirements.txt  # Python dependencies
 │   ├── README.md         # Project documentation (this file)
 ```
 
-## 🛠️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/text-summarization.git
-cd text-summarization/pdf_summarization
-```
-
-### 2️⃣ Create a Virtual Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Mac/Linux
-venv\Scripts\activate  # On Windows
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 🚀 How to Use
 
